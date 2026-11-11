@@ -16,7 +16,7 @@
 ## 🎬 Live Demo & UI Preview
 > *A quick walkthrough of the real-time classification pipeline, dynamic metric counters, and glassmorphic aesthetic.*
 
-![Engine Demo Preview](demo.gif)
+![Engine Demo Preview](Text-Classifier-Engine Demo video)
 ---
 
 ## 🏗️ Architecture & Core Strategy
