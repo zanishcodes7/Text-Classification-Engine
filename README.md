@@ -13,11 +13,7 @@
 
 ---
 
-## 🎬 Live Demo & UI Preview
-> *A quick walkthrough of the real-time classification pipeline, dynamic metric counters, and glassmorphic aesthetic.*
-
-![Engine Demo Preview](Text-Classifier-Engine Demo video)
----
+[▶ Watch the Engine Demo](Text-Classifier-Engine%20Demo%20video.mp4)
 
 ---
 
